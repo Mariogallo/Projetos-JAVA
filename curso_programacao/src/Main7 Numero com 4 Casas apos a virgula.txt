@@ -1,0 +1,17 @@
+
+public class Main7 {
+
+	public static void main(String[] args) {
+		
+		double x = 10.35784;
+		System.out.println(x);
+		System.out.printf("%.2f%n", x);
+		System.out.printf("%.4f%n", x);
+	}
+
+}
+
+Resultado
+10.35784
+10,36
+10,3578
